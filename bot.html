@@ -5,27 +5,31 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <script src="https://cdn.botpress.cloud/webchat/v1/inject.js"></script>
+	<script src="https://cdn.botpress.cloud/webchat/v2.3/inject.js"></script>
+	<script src="https://files.bpcontent.cloud/2025/04/12/12/20250412124134-8BV3568O.js"></script>
   <script>
     window.botpressWebChat.init({
-      botId: "52b4285c-b662-4d3b-945e-e22e61324003", // ✅ Your Bot ID
-      clientId: "267effa8-87b4-4d1f-a58f-c4e89b641037", // ✅ Your Client ID (replace with actual one)
-      hostUrl: "https://cdn.botpress.cloud/webchat/v1",
+      botId: "52b4285c-b662-4d3b-945e-e22e61324003",
+      clientId: "267effa8-87b4-4d1f-a58f-c4e89b641037",
+      hostUrl: "https://cdn.botpress.cloud/webchat/v2.3",
       messagingUrl: "https://messaging.botpress.cloud",
       lazySocket: true,
       showPoweredBy: false,
-
       botName: "BrightBoard AI",
-      botAvatarUrl: "https://files.bpcontent.cloud/2025/04/12/16/20250412165244-IT5V9419.png", // ✅ Custom avatar
-      themeName: "light",
-      theme: "solid",
+      theme: "light",
+      themeName: "prism",
+      layoutWidth: "100%",
       stylesheet: "",
-      extraStylesheet: "",
-      className: "webchat",
-      stylesheetOptions: {
+      avatarUrl: "",
+      containerWidth: "100%",
+      hideWidget: false,
+      config: {
+        color: "#8B008B",
         fontFamily: "inter",
-        primaryColor: "#8B008B",
-        borderRadius: "1rem"
+        botName: "BrightBoard AI",
+        variant: "solid",
+        themeMode: "light",
+        radius: 1
       }
     });
   </script>
