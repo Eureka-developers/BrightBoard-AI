@@ -7,7 +7,7 @@
       "Generic industries",
       "Manufacturing industries"
     ],
-    "answerIndex": 3
+    "correctAnswerIndex": 3
   },
   {
     "question": "Commerce is...",
@@ -17,7 +17,7 @@
       "trade",
       "trade and aids to trade"
     ],
-    "answerIndex": 3
+    "correctAnswerIndex": 3
   },
   {
     "question": "what are aids to trade?",
@@ -27,6 +27,6 @@
       "the services that help to make trade possible",
       "making profit"
     ],
-    "answerIndex": 2
+    "correctAnswerIndex": 2
   }
 ]
