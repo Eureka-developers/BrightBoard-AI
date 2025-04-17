@@ -1,0 +1,32 @@
+[
+  {
+    "question": "... are industries that are engaged in the conversion of raw materials into finished goods.",
+    "options": [
+      "Construction industries",
+      "Extractive industries",
+      "Generic industries",
+      "Manufacturing industries"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "question": "Commerce is...",
+    "options": [
+      "an aid to trade",
+      "industry and production",
+      "trade",
+      "trade and aids to trade"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "question": "what are aids to trade?",
+    "options": [
+      "a reward for trading",
+      "the buying and selling of goods",
+      "the services that help to make trade possible",
+      "making profit"
+    ],
+    "answerIndex": 2
+  }
+]
