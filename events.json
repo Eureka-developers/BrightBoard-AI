@@ -6,5 +6,24 @@
     "price": "K100 Ordinary, K200 VIP, K500 VVIP",
     "imageResource": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/concert.jpeg",
     "description": "Come and attend the live concert of your favourite artist Yo Maps"
+  },
+  
+  {
+    "name": "Birthday Party",
+    "date": "April 10, 2025",
+    "location": "Livingstone, Zambia",
+    "price": "Free",
+    "imageResource": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/birthday.jpg",
+    "description": "Birthday Party"
+  },
+
+  {
+    "name": "Gospel Central Church Services",
+    "date": "Every Sunday, 7h30am & 10h15am",
+    "location": "Livingstone, Zambia",
+    "price": "Free",
+    "imageResource": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/gospel_central_church.png",
+    "description": "A place where you belong"
   }
+  
 ]
