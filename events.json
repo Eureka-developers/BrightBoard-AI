@@ -1,4 +1,12 @@
 [
+   {
+    "name": "Gospel Central Church Services",
+    "date": "Every Sunday, 7h30am & 10h15am",
+    "location": "Lusaka, Zambia",
+    "price": "Free",
+    "imageResource": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/gospel_central_church.png",
+    "description": "A place where you belong"
+  },
   {
     "name": "Yo Map's Music Concert",
     "date": "April 10, 2025",
@@ -7,7 +15,6 @@
     "imageResource": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/concert.jpeg",
     "description": "Come and attend the live concert of your favourite artist Yo Maps"
   },
-  
   {
     "name": "Birthday Party",
     "date": "April 10, 2025",
@@ -16,14 +23,124 @@
     "imageResource": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/birthday.jpg",
     "description": "Birthday Party"
   },
-
   {
-    "name": "Gospel Central Church Services",
-    "date": "Every Sunday, 7h30am & 10h15am",
-    "location": "Lusaka, Zambia",
+    "name": "Tech Expo Zambia 2025",
+    "date": "June 5-7, 2025",
+    "location": "Mulungushi Conference Centre, Lusaka",
+    "price": "K250 Full Access",
+    "imageResource": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/tech-expo.jpg",
+    "description": "Explore the latest innovations in technology, startups, and digital tools."
+  },
+  {
+    "name": "Zambezi Carnival",
+    "date": "August 15, 2025",
+    "location": "Livingstone Showgrounds",
+    "price": "K50 Entry",
+    "imageResource": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/zambezi-carnival.jpg",
+    "description": "A colorful celebration of culture, food, and music near the mighty Victoria Falls."
+  },
+  {
+    "name": "Startup Pitch Night",
+    "date": "May 30, 2025",
+    "location": "BongoHive, Lusaka",
+    "price": "Free (RSVP Required)",
+    "imageResource": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/startup-pitch-night.png",
+    "description": "Watch Zambia's brightest entrepreneurs pitch their ideas."
+  },
+  {
+    "name": "Art & Wine Festival",
+    "date": "July 20, 2025",
+    "location": "Levy Junction Rooftop, Lusaka",
+    "price": "K200",
+    "imageResource": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/art-and-wine.jpg",
+    "description": "Sip, socialize, and shop for art in a relaxed setting."
+  },
+  {
+    "name": "University of Zambia Graduation",
+    "date": "September 5, 2025",
+    "location": "UNZA Grounds, Lusaka",
+    "price": "By Invitation Only",
+    "imageResource": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/unza-graduates.jpg",
+    "description": "Celebrate the next wave of Zambian leaders."
+  },
+  {
+    "name": "Chess Championship Finals",
+    "date": "October 12, 2025",
+    "location": "TBA",
+    "price": "K30",
+    "imageResource": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/chess-championship.jpg",
+    "description": "Who will be Zambia's next chess master?"
+  },
+  {
+    "name": "Film Night: African Shorts",
+    "date": "June 21, 2025",
+    "location": "Ster-Kinekor, Lusaka",
+    "price": "K75",
+    "imageResource": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/film-night.png",
+    "description": "An evening of award-winning short films from across Africa."
+  },
+  {
+    "name": "Open Mic Night",
+    "date": "Every Friday, 7PM",
+    "location": "East Park Mall Amphitheatre",
+    "price": "K20 Entry",
+    "imageResource": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/open-night.png",
+    "description": "Showcase your talent or enjoy emerging artists in Lusaka."
+  },
+  {
+    "name": "Zed Run - Charity Marathon",
+    "date": "August 4, 2025",
+    "location": "Great East Road, Lusaka",
+    "price": "K100 Registration",
+    "imageResource": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/zed-run.jpg",
+    "description": "Run for a cause and support local charities."
+  },
+  {
+    "name": "Food & Farmers Market",
+    "date": "Every Saturday, 9AM–3PM",
+    "location": "Foxdale Court, Lusaka",
     "price": "Free",
-    "imageResource": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/gospel_central_church.png",
-    "description": "A place where you belong"
+    "imageResource": "",
+    "description": "Fresh produce, homemade treats, and crafts from local farmers and artisans."
+  },
+  {
+    "name": "Kwacha Fashion Week",
+    "date": "October 1–3, 2025",
+    "location": "Mulungushi Conference Centre, Lusaka",
+    "price": "K300 VIP, K100 General",
+    "imageResource": "",
+    "description": "Experience Zambia's top fashion talents on the runway."
+  },
+  {
+    "name": "Music Bootcamp Zambia",
+    "date": "November 14–16, 2025",
+    "location": "Lake Kariba, Siavonga",
+    "price": "K500 (Accommodation included)",
+    "imageResource": "",
+    "description": "A weekend of workshops, jam sessions, and music networking."
+  },
+  {
+    "name": "DJ Battle Zambia 2025",
+    "date": "September 10, 2025",
+    "location": "Woodlands Stadium, Lusaka",
+    "price": "K150",
+    "imageResource": "",
+    "description": "Top DJs face off in an electrifying competition."
+  },
+  {
+    "name": "Zambian Literature Fair",
+    "date": "July 6, 2025",
+    "location": "Alliance Française, Lusaka",
+    "price": "Free",
+    "imageResource": "",
+    "description": "Meet authors, buy books, and attend poetry readings and panel talks."
+  },
+  {
+    "name": "CodeFest Zambia",
+    "date": "November 2–3, 2025",
+    "location": "ZICS Building, Lusaka",
+    "price": "K200 (Students: K100)",
+    "imageResource": "",
+    "description": "A hackathon and workshop weekend for coders and creatives."
   }
-  
 ]
