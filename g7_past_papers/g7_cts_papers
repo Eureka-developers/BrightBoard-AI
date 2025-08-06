@@ -1,0 +1,43 @@
+{
+  "version": "1.0.0",
+  "papers":[
+
+	{
+      "fileName": "G7 CTS 2016.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/g7cts2016_finals.pdf",
+      "year": "2016",
+      "label": "2016"
+    },
+    {
+      "fileName": "G7 CTS 2018.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/g7cts2018_finals.pdf",
+      "year": "2018",
+      "label": "2018"
+    },
+    {
+      "fileName": "G7 CTS 2019.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/g7cts2019_finals.pdf",
+      "year": "2019",
+      "label": "2019"
+    },
+    {
+      "fileName": "G7 CTS 2020.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/g7cts2020_finals.pdf",
+      "year": "2020",
+      "label": "2020"
+    },
+    {
+      "fileName": "G7 CTS 2021.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/g7cts2021_finals.pdf",
+      "year": "2021",
+      "label": "2021"
+    },
+    {
+      "fileName": "G7 CTS 2023.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/g7cts2023_finals.pdf",
+      "year": "2023",
+      "label": "2023"
+    }
+
+]
+}
