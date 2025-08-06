@@ -1,42 +1,42 @@
 {
   "version": "1.0.0",
-  "papers":[
+  "papers": [
 
-	{
-      'fileName': 'G9 Computer Studies 2016 P1.pdf',
-      'url': 'https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/02/g9cs2016_p1.pdf',
-      'year': '2016',
-      'label': '2016 P1'
+    {
+      "fileName": "G9 Computer Studies 2016 P1.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/02/g9cs2016_p1.pdf",
+      "year": "2016",
+      "label": "2016 P1"
     },
     {
-      'fileName': 'G9 Computer Studies 2017 P1.pdf',
-      'url': 'https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/02/g9cs2017_p1.pdf',
-      'year': '2017',
-      'label': '2017 P1'
+      "fileName": "G9 Computer Studies 2017 P1.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/02/g9cs2017_p1.pdf",
+      "year": "2017",
+      "label": "2017 P1"
     },
     {
-      'fileName': 'G9 Computer Studies 2019 P1.pdf',
-      'url': 'https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/02/g9cs2019_p1.pdf',
-      'year': '2019',
-      'label': '2019 P1'
+      "fileName": "G9 Computer Studies 2019 P1.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/02/g9cs2019_p1.pdf",
+      "year": "2019",
+      "label": "2019 P1"
     },
     {
-      'fileName': 'G9 Computer Studies 2021.pdf',
-      'url': 'https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/02/g9cs2021.pdf',
-      'year': '2021',
-      'label': '2021'
+      "fileName": "G9 Computer Studies 2021.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/02/g9cs2021.pdf",
+      "year": "2021",
+      "label": "2021"
     },
     {
-      'fileName': 'G9 Computer Studies 2021 External.pdf',
-      'url': 'https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/02/g9cs2021_external.pdf',
-      'year': '2021',
-      'label': '2021 External'
+      "fileName": "G9 Computer Studies 2021 External.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/02/g9cs2021_external.pdf",
+      "year": "2021",
+      "label": "2021 External"
     },
     {
-      'fileName': 'G9 Computer Studies 2022.pdf',
-      'url': 'https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/02/g9cs2022.pdf',
-      'year': '2022',
-      'label': '2022'
+      "fileName": "G9 Computer Studies 2022.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/02/g9cs2022.pdf",
+      "year": "2022",
+      "label": "2022"
     }
-]
+  ]
 }
