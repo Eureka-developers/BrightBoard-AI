@@ -1,0 +1,67 @@
+{
+  "version": "1.0.0",
+  "papers":[
+
+	{
+      "fileName": "Commerce 2016 GCE.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/01/g12co2016_gce.pdf.pdf",
+      "year": "2016",
+      "label": "2016 GCE"
+    },
+    {
+      "fileName": "Commerce 2016.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/01/g12co2016.pdf.pdf",
+      "year": "2016",
+      "label": "2016"
+    },
+    {
+      "fileName": "Commerce 2017 GCE.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/01/g12co2017_gce.pdf.pdf",
+      "year": "2017",
+      "label": "2017 GCE"
+    },
+    {
+      "fileName": "Commerce 2017.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/01/g12co2017.pdf.pdf",
+      "year": "2017",
+      "label": "2017"
+    },
+    {
+      "fileName": "Commerce 2020.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/01/g12co2020.pdf.pdf",
+      "year": "2020",
+      "label": "2020"
+    },
+    {
+      "fileName": "Commerce 2021 GCE.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/01/g12co2021_gce.pdf.pdf",
+      "year": "2021",
+      "label": "2021 GCE"
+    },
+    {
+      "fileName": "Commerce 2021.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/01/g12co2021.pdf.pdf",
+      "year": "2021",
+      "label": "2021"
+    },
+    {
+      "fileName": "Commerce 2023 GCE.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/01/g12co2023_gce.pdf.pdf",
+      "year": "2023",
+      "label": "2023 GCE"
+    },
+    {
+      "fileName": "Commerce 2023.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/01/g12co2023.pdf.pdf",
+      "year": "2023",
+      "label": "2023"
+    },
+    {
+      "fileName": "Commerce 2024 GCE.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/08/o_level_co2024_gce.pdf",
+      "year": "2024",
+      "label": "2024 GCE"
+    }
+
+]
+}

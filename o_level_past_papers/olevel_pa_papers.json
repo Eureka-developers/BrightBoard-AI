@@ -1,0 +1,79 @@
+{
+  "version": "1.0.0",
+  "papers":[
+
+	{
+  'fileName': 'O-level Accounts 2016 P1 GCE.pdf',
+  'url': 'https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/04/o_level_acc2016_p1gce.pdf',
+  'year': '2016',
+  'label': '2016 P1 GCE'
+},
+{
+  'fileName': 'O-level Accounts 2016 P2 GCE.pdf',
+  'url': 'https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/04/o_level_acc2016_p2gce.pdf',
+  'year': '2016',
+  'label': '2016 P2 GCE'
+},
+{
+  'fileName': 'O-level Accounts 2017 P1 GCE.pdf',
+  'url': 'https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/04/o_level_acc2017_p1gce.pdf',
+  'year': '2017',
+  'label': '2017 P1 GCE'
+},
+{
+  'fileName': 'O-level Accounts 2017 P2 GCE.pdf',
+  'url': 'https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/04/o_level_acc2017_p2gce.pdf',
+  'year': '2017',
+  'label': '2017 P2 GCE'
+},
+{
+  'fileName': 'O-level Accounts 2018 P2.pdf',
+  'url': 'https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/04/o_level_acc2018_p2.pdf',
+  'year': '2018',
+  'label': '2018 P2'
+},
+{
+  'fileName': 'O-level Accounts 2019 P1.pdf',
+  'url': 'https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/04/o_level_acc2019_p1.pdf',
+  'year': '2019',
+  'label': '2019 P1'
+},
+{
+  'fileName': 'O-level Accounts 2019 P2.pdf',
+  'url': 'https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/04/o_level_acc2019_p2.pdf',
+  'year': '2019',
+  'label': '2019 P2'
+},
+{
+  'fileName': 'O-level Accounts 2022 P1 GCE.pdf',
+  'url': 'https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/04/o_level_acc2022_p1gce.pdf',
+  'year': '2022',
+  'label': '2022 P1 GCE'
+},
+{
+  'fileName': 'O-level Accounts 2022 P2 GCE.pdf',
+  'url': 'https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/04/o_level_acc2022_p2gce.pdf',
+  'year': '2022',
+  'label': '2022 P2 GCE'
+},
+{
+  'fileName': 'O-level Accounts 2023 P2 GCE.pdf',
+  'url': 'https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/04/o_level_acc2023_p2gce.pdf',
+  'year': '2023',
+  'label': '2023 P2 GCE'
+},
+{
+  'fileName': 'O-level Accounts 2024 P1 GCE.pdf',
+  'url': 'https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/04/o_level_acc2024_p1gce.pdf',
+  'year': '2024',
+  'label': '2024 P1 GCE'
+},
+{
+  'fileName': 'O-level Accounts 2024 P2 GCE.pdf',
+  'url': 'https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/04/o_level_acc2024_p2gce.pdf',
+  'year': '2024',
+  'label': '2024 P2 GCE'
+}
+
+]
+}

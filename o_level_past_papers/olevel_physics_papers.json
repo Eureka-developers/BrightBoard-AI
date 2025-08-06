@@ -1,0 +1,48 @@
+{
+  "version": "1.0.0",
+  "papers":[
+
+	{
+      'fileName': 'O-level Physics 2016 P1 GCE.pdf',
+      'url': 'https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/ol_physics_2016_p1gce.pdf',
+      'year': '2016',
+      'label': '2016 P1 GCE'
+    },
+    {
+      'fileName': 'O-level Physics 2017 P1 GCE.pdf',
+      'url': 'https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/ol_physics_2017_p1gce.pdf.pdf',
+      'year': '2017',
+      'label': '2017 P1 GCE'
+    },
+    {
+      'fileName': 'O-level Physics 2019 P1.pdf',
+      'url': 'https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/ol_physics_2019_p1.pdf',
+      'year': '2019',
+      'label': '2019 P1'
+    },
+    {
+      'fileName': 'O-level Physics 2020 P1.pdf',
+      'url': 'https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/ol_physics_2020_p1.pdf',
+      'year': '2020',
+      'label': '2020 P1'
+    },
+    {
+      'fileName': 'O-level Physics 2021 P1.pdf',
+      'url': 'https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/ol_physics_2021_p1.pdf',
+      'year': '2021',
+      'label': '2021 P1'
+    },
+    {
+      'fileName': 'O-level Physics 2022 P1.pdf',
+      'url': 'https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/ol_physics_2022_p1.pdf',
+      'year': '2022',
+      'label': '2022 P1'
+    },
+    {
+      'fileName': 'O-level Physics 2023 P1 GCE.pdf',
+      'url': 'https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/ol_physics_2023_p1gce.pdf',
+      'year': '2023',
+      'label': '2023 P1 GCE'
+    }
+]
+}
