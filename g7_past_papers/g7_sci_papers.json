@@ -1,0 +1,44 @@
+{
+  "version": "1.0.0",
+  "papers":[
+
+	{
+      "fileName": "G7 Science 2016.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/g7sci2016_finals.pdf",
+      "year": "2016",
+      "label": "2016"
+    },
+    {
+      "fileName": "G7 Science 2017.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/g7sci2017_finals.pdf",
+      "year": "2017",
+      "label": "2017"
+    },
+    {
+      "fileName": "G7 Science 2019.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/g7sci2019_finals.pdf",
+      "year": "2019",
+      "label": "2019"
+    },
+    {
+      "fileName": "G7 Science 2020.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/g7sci2020_finals.pdf",
+      "year": "2020",
+      "label": "2020"
+    },
+    {
+      "fileName": "G7 Science 2021.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/g7sci2021_finals.pdf",
+      "year": "2021",
+      "label": "2021"
+    },
+    {
+      "fileName": "G7 Science 2023.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/g7sci2023_finals.pdf",
+      "year": "2023",
+      "label": "2023"
+    }
+
+
+]
+}

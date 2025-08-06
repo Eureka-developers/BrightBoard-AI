@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "papers":[
+
+	{
+      "fileName": "G7 Math 2016.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/g7math2016_finals.pdf",
+      "year": "2016",
+      "label": "2016"
+    },
+    {
+      "fileName": "G7 Math 2017.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/g7math2017_finals.pdf",
+      "year": "2017",
+      "label": "2017"
+    },
+    {
+      "fileName": "G7 Math 2019.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/g7math2019_finals.pdf",
+      "year": "2019",
+      "label": "2019"
+    },
+    {
+      "fileName": "G7 Math 2020.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/g7math2020_finals.pdf",
+      "year": "2020",
+      "label": "2020"
+    },
+    {
+      "fileName": "G7 Math 2021.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/g7math2021_finals.pdf",
+      "year": "2021",
+      "label": "2021"
+    }
+
+]
+}
