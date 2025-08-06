@@ -1,0 +1,43 @@
+{
+  "version": "1.0.0",
+  "papers":[
+
+	{
+      "fileName": "G9 Science 2016 p1.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/02/g9sci2016_p1.pdf",
+      "year": "2016",
+      "label": "2016 P1"
+    },
+    {
+      "fileName": "G9 Science 2016 p2.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/02/g9sci2016_p2.pdf",
+      "year": "2016",
+      "label": "2016 P2"
+    },
+    {
+      "fileName": "G9 Science 2017 p1.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/02/g9sci2017_p1.pdf",
+      "year": "2017",
+      "label": "2017 P1"
+    },
+    {
+      "fileName": "G9 Science 2017 p2.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/02/g9sci2017_p2.pdf",
+      "year": "2017",
+      "label": "2017 P2"
+    },
+    {
+      "fileName": "G9 Science 2019 p1.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/02/g9sci2019_p1.pdf",
+      "year": "2019",
+      "label": "2019 P1"
+    },
+    {
+      "fileName": "G9 Science 2019 p2.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/02/g9sci2019_p2.pdf",
+      "year": "2019",
+      "label": "2019 P2"
+    }
+
+]
+}
