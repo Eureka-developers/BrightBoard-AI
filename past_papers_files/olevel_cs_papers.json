@@ -1,8 +1,8 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.0",
   "papers":[
   {
-    "fileName": "O-level CS 2017 P1 GCE final.pdf",
+    "fileName": "O-level CS 2017 P1 GCE.pdf",
     "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/04/o_level_cs2017_p1gce.pdf",
     "year": "2017",
     "label": "2017 P1 GCE"
@@ -23,7 +23,7 @@
     "fileName": "O-level CS 2016 P2.pdf",
     "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/04/o_level_cs2016_p2.pdf",
     "year": "2016",
-    "label": "2016 P2 Update"
+    "label": "2016 P2"
   }
 ]
 }
