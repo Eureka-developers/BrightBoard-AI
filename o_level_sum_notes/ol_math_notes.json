@@ -1,0 +1,105 @@
+{
+  "version": "1.0.0",
+  "papers":[
+
+	{
+      "fileName": "Indices.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/sumnotes_o_level_math_indices-and-more.pdf",
+      "year": "Topics",
+      "label": "Indices and Approximations"
+    },
+    {
+      "fileName": "Sets.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/sumnotes_o_level_math_sets.pdf",
+      "year": "Topics",
+      "label": "Sets"
+    },
+    {
+      "fileName": "Matrices.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/sumnotes_o_level_math_matrices.pdf",
+      "year": "Topics",
+      "label": "Matrices"
+    },
+    {
+      "fileName": "Basic_Algebra.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/sumnotes_o_level_math_basic-algrebra.pdf",
+      "year": "Topics",
+      "label": "Basic Algebra"
+    },
+    {
+      "fileName": "Equations_and_Functions.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/sumnotes_o_level_math_equations-and-functions.pdf",
+      "year": "Topics",
+      "label": "Equations & Functions"
+    },
+    {
+      "fileName": "Variation_and_Proportion.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/sumnotes_o_level_math_variation-and-proportion.pdf",
+      "year": "Topics",
+      "label": "Variation & Proportion"
+    },
+    {
+      "fileName": "Coordinates_and_Graphs.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/sumnotes_o_level_math_-coordinates-and-graphs.pdf",
+      "year": "Topics",
+      "label": "Coordinates & Graphs"
+    },
+    {
+      "fileName": "Linear_Programming.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/sumnotes_o_level_math_linear-programming.pdf",
+      "year": "Topics",
+      "label": "Linear Programming"
+    },
+    {
+      "fileName": "Bearings_Angles_Polygons.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/sumnotes_o_level_math_bearings-and-more.pdf",
+      "year": "Topics",
+      "label": "Bearings, Angles & Polygons"
+    },
+    {
+      "fileName": "Earth_Geometry.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/sumnotes_o_level_math_earth-geometry.pdf",
+      "year": "Topics",
+      "label": "Earth Geometry"
+    },
+        {
+      "fileName": "Construction_Loci.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/sumnotes_o_level_math_geometrical-construction.pdf",
+      "year": "Topics",
+      "label": "Construction and Loci"
+    },
+    {
+      "fileName": "Mensuration.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/sumnotes_o_level_math_mensuration.pdf",
+      "year": "Topics",
+      "label": "Mensuration"
+    },
+    {
+      "fileName": "Probability.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/sumnotes_o_level_math_probability.pdf",
+      "year": "Topics",
+      "label": "Probability"
+    },
+    {
+      "fileName": "Statistics.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/sumnotes_o_level_math_statistics.pdf",
+      "year": "Topics",
+      "label": "Statistics"
+    },
+    {
+      "fileName": "Trigonometry.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/sumnotes_o_level_math_trigonometry.pdf",
+      "year": "Topics",
+      "label": "Trigonometry"
+    },
+    {
+      "fileName": "Vectors.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/sumnotes_o_level_math_vectors.pdf",
+      "year": "Topics",
+      "label": "Vectors"
+    },
+
+]
+
+}
+

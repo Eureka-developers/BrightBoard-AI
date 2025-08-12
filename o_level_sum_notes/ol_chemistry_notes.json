@@ -1,0 +1,195 @@
+{
+  "version": "1.0.0",
+  "papers":[
+
+	{
+      "fileName": "Intro_Matter_States.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/sumnotes_o_level_chemistry_intro-matter-changes-of-states.pdf",
+      "year": "Topics",
+      "label": "Introduction to Matter & their States"
+    },
+    {
+      "fileName": "Physical_Chemical_Changes.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/sumnotes_o_level_chemistry_physical-and-chemical-changes.pdf",
+      "year": "Topics",
+      "label": "Physical & Chemical Changes"
+    },
+    {
+      "fileName": "Apparatus_in_Chemistry.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/sumnotes_o_level_chemistry_various-apparutas.pdf",
+      "year": "Topics",
+      "label": "Apparatus in Chemistry"
+    },
+    {
+      "fileName": "Separation_Techniques.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/sumnotes_o_level_chemistry_separation-techniques.pdf",
+      "year": "Topics",
+      "label": "Collection & Separation Techniques"
+    },
+    {
+      "fileName": "Elements_Mixtures_Compounds.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/sumnotes_o_level_chemistry_elements-mixtures-and-compounds.pdf",
+      "year": "Topics",
+      "label": "Elements, Mixtures & Compounds"
+    },
+    {
+      "fileName": "Structure_of_Atom.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/sumnotes_o_level_chemistry_structure-of-an-atom.pdf",
+      "year": "Topics",
+      "label": "Structure of an Atom"
+    },
+    {
+      "fileName": "Electronic_Configuration.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/sumnotes_o_level_chemistry_electronic-configuraton.pdf",
+      "year": "Topics",
+      "label": "Electronic Configuration"
+    },
+    {
+      "fileName": "Ions_and_Anions.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/sumnotes_o_level_chemistry_ions-and-anions.pdf",
+      "year": "Topics",
+      "label": "Ions"
+    },
+    {
+      "fileName": "Bonding_of_Atoms.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/sumnotes_o_level_chemistry_bonding-of-atoms.pdf",
+      "year": "Topics",
+      "label": "Bonding of Atoms"
+    },
+    {
+      "fileName": "Valency_and_Radical.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/sumnotes_o_level_chemistry_valency-and-radical.pdf",
+      "year": "Topics",
+      "label": "Valency & Radical"
+    },
+    {
+      "fileName": "Chemical_Formula.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/sumnotes_o_level_chemistry_chemical-formula.pdf",
+      "year": "Topics",
+      "label": "Chemical Formula"
+    },
+    {
+      "fileName": "Equations.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/05/sumnotes_o_level_chemistry_equations.pdf",
+      "year": "Topics",
+      "label": "Chemical Equations"
+    },
+    {
+      "fileName": "Stoichiometric Calculations.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/sumnotes_o_level_chemistry_stoichiometric-calculations.pdf",
+      "year": "Topics",
+      "label": "Stoichiometric Calculations"
+    },
+    {
+      "fileName": "Dilution.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/sumnotes_o_level_chemistry_dilution.pdf",
+      "year": "Topics",
+      "label": "Dilution"
+    },
+    {
+      "fileName": "Empirical/Molecular Formula and Yield.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/sumnotes_o_level_chemistry_imperical-molecular-formula-and-yield.pdf",
+      "year": "Topics",
+      "label": "Empirical/Molecular Formula and Yield"
+    },
+    {
+      "fileName": "The Periodic Table.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/sumnotes_o_level_chemistry_the-periodic-table.pdf",
+      "year": "Topics",
+      "label": "The Periodic Table"
+    },
+    {
+      "fileName": "Acids and Bases.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/sumnotes_o_level_chemistry_acids-and-bases.pdf",
+      "year": "Topics",
+      "label": "Acids and Bases"
+    },
+    {
+      "fileName": "Oxides and Salts.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/sumnotes_o_level_chemistry_oxides-and-salts.pdf",
+      "year": "Topics",
+      "label": "Oxides and Salts"
+    },
+    {
+      "fileName": "Qualitative Analysis and Tests.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/sumnotes_o_level_chemistry_qualitative-analysis.pdf",
+      "year": "Topics",
+      "label": "Qualitative Analysis and Tests"
+    },
+    {
+      "fileName": "Oxidation and Reduction.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/sumnotes_o_level_chemistry_oxidation-and-reduction.pdf",
+      "year": "Topics",
+      "label": "Oxidation and Reduction"
+    },
+    {
+      "fileName": "Rates of Chemical Reactions.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/sumnotes_o_level_chemistry_rates-of-chemical-reactions.pdf",
+      "year": "Topics",
+      "label": "Rates of Chemical Reactions"
+    },
+    {
+      "fileName": "Electrochemistry.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/sumnotes_o_level_chemistry_electrochemistry.pdf",
+      "year": "Topics",
+      "label": "Electrochemistry"
+    },
+    {
+      "fileName": "Alloys and Metals.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/sumnotes_o_level_chemistry_alloys-and-metals.pdf",
+      "year": "Topics",
+      "label": "Alloys and Metals"
+    },
+    {
+      "fileName": "Aluminium, Copper, Zinc, Iron.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/sumnotes_o_level_chemistry_aluminium-copper-zinc-iron.pdf",
+      "year": "Topics",
+      "label": "Aluminium, Copper, Zinc, Iron"
+    },
+    {
+      "fileName": "Air and Non-metals(gases).pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/sumnotes_o_level_chemistry_air-and-non-metals-gases.pdf",
+      "year": "Topics",
+      "label": "Air and Non-metals(gases)"
+    },
+    {
+      "fileName": "Pollution.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/sumnotes_o_level_chemistry_pollution.pdf",
+      "year": "Topics",
+      "label": "Pollution"
+    },
+    {
+      "fileName": "Water.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/sumnotes_o_level_chemistry_water.pdf",
+      "year": "Topics",
+      "label": "Water"
+    },
+    {
+      "fileName": "Allotropes of Carbon.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/sumnotes_o_level_chemistry_allotropes-of-carbon.pdf",
+      "year": "Topics",
+      "label": "Allotropes of Carbon"
+    },
+    {
+      "fileName": "Carbonates, Oxides, and Hydroxides.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/sumnotes_o_level_chemistry_carbonates-oxides-and-hydroxides.pdf",
+      "year": "Topics",
+      "label": "Carbonates, Oxides, and Hydroxides"
+    },
+    {
+      "fileName": "Organic Chemistry.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/sumnotes_o_level_chemistry_organic-chemistry.pdf",
+      "year": "Topics",
+      "label": "Organic Chemistry"
+    },
+    {
+      "fileName": "Polymerization.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/07/sumnotes_o_level_chemistry_polymerisation.pdf",
+      "year": "Topics",
+      "label": "Polymerization"
+    },
+
+]
+
+}
+

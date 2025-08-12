@@ -1,0 +1,93 @@
+{
+  "version": "1.0.0",
+  "papers":[
+
+	{
+      "fileName": "Introduction_to_Commerce_notes.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/03/sumnotes_g12co_intro.pdf",
+      "year": "Topics",
+      "label": "Introduction to Commerce"
+    },
+    {
+      "fileName": "Production_notes.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/03/sumnotes_g12co_production.pdf.pdf",
+      "year": "Topics",
+      "label": "Production"
+    },
+    {
+      "fileName": "Warehousing_notes.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/03/sumnotes_g12co_warehousing.pdf.pdf",
+      "year": "Topics",
+      "label": "Warehousing"
+    },
+    {
+      "fileName": "Advertising_notes.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/03/sumnotes_g12co_advertising.pdf.pdf",
+      "year": "Topics",
+      "label": "Advertising"
+    },
+    {
+      "fileName": "Banking_notes.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/03/sumnotes_g12co_banking.pdf.pdf",
+      "year": "Topics",
+      "label": "Banking"
+    },
+    {
+      "fileName": "Transport_notes.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/03/sumnotes_g12co_transport.pdf.pdf",
+      "year": "Topics",
+      "label": "Transport"
+    },
+    {
+      "fileName": "Insurance_notes.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/03/sumnotes_g12co_insurance.pdf.pdf",
+      "year": "Topics",
+      "label": "Insurance"
+    },
+    {
+      "fileName": "Communication_notes.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/03/sumnotes_g12co_communication.pdf.pdf",
+      "year": "Topics",
+      "label": "Communication"
+    },
+    {
+      "fileName": "Business_Units_notes.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/04/sumnotes_g12co_business_units.pdf",
+      "year": "Topics",
+      "label": "Business Units"
+    },
+    {
+      "fileName": "Capital_of_Companies_notes.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/04/sumnotes_g12co_capital_companies.pdf",
+      "year": "Topics",
+      "label": "Capital of Companies"
+    },
+    {
+      "fileName": "Financing_Business_Units_notes.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/04/sumnotes_g12co_financing_business_units.pdf",
+      "year": "Topics",
+      "label": "Financing Business Units"
+    },
+    {
+      "fileName": "Foreign_Trade_notes.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/04/sumnotes_g12co_foreign_trade.pdf",
+      "year": "Topics",
+      "label": "Foreign Trade"
+    },
+    {
+      "fileName": "Home_Trade_notes.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/04/sumnotes_g12co_home_trade.pdf",
+      "year": "Topics",
+      "label": "Home Trade"
+    },
+    {
+      "fileName": "LUSE_notes.pdf",
+      "url": "https://eurekadeveloperszm.wordpress.com/wp-content/uploads/2025/04/sumnotes_g12co_luse.pdf",
+      "year": "Topics",
+      "label": "Lusaka Stock Exchange (LuSE)"
+    }
+
+]
+
+}
+
